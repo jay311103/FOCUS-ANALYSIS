@@ -72,9 +72,6 @@ Feel free to contribute to this project by:
 
 ---
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contact
 For any questions or feedback, feel free to reach out at:  
-*your-jkp1073@outlook.com*
+*jkp1073@outlook.com*
